@@ -1,8 +1,8 @@
 <h1 align="center">Hii👋, I'm Zulhusni</h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
-- 🌱 I’m currently learning **React.js**
+- I’m currently learning **React.js**
 <br>
 <div> <a href="https://github.com/zulhusni2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
