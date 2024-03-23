@@ -1,6 +1,6 @@
 <h1 align="center">Hii👋, I'm Zulhusni</h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
 - I’m currently learning **React.js**
 <br>
