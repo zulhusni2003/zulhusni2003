@@ -48,6 +48,5 @@
 <a href="https://github.com/zulhusni2003">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulhusni2003&theme=merko" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulhusni2003&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zulhusni2003&theme=merko" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulhusni2003&theme=merko" height="180em" />
 </div>
