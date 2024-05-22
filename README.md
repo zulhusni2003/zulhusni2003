@@ -39,9 +39,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/zulhusni2003">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zulhusni2003&theme=merko" height="180em" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulhusni2003&layout=compact&theme=merko" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zulhusni2003&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zulhusni2003&theme=merko" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zulhusni2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zulhusni2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=zulhusni2003&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
